@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'https://successc.onrender.com'
+    https://successchemist.onrender.com'
 ]
 
 module.exports = allowedOrigins
